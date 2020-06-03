@@ -1,25 +1,18 @@
 ---
 layout: post
-title: "What is Lorem Ipsum?"
-description: "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
-comments: true
-keywords: "dummy content, lorem ipsum"
+title: "Well hello there!"
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Hello there people. This is my first ever blog post. Kind of crazy to think it has taken me this long to start one since I have been wanting to write one for years, but here we are now! I am planning to make this a hub for all things that interest me, and things that I want to take time writing about. Writing is something that I have always enjoyed doing but I have never found a way that I could link it to my love of code, but now I think I have found a way. 
 
-### Where does it come from?
+### So why did I start this?
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+I only found out a few days ago that GitHub gives all of it users a free way to turn [repositories into websites](https://pages.github.com/). I immediately thought of things I could do, and landed on the idea of making a personal portfolio. I've seen people do this for a while, and now that I am in university and am gearing up to look for internships and placements in the next 12 months, I think it would be a great way for me to showcase not only my talents and skills, but also my own personality. 
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+Being able to share my personality though this I think is key. With the people I see on my course wanting to become developers for massive corporations, all they focus on is being able to code really quick or slap programs together in a day or two, and not show even a glimpse of what they are as a person. It's easy to learn about the fastest way to solve an algorithm that might come up in an interview, but that is only a small part of it. When it comes to asking more personal questions, I want to be able to share my experiences outside of this computer science bubble. 
 
-### Why do we use it?
+When I tell people I am studying computer science, I'll usually get asked questions like "So do you sit at your computer all day and code?" Yes, I do sit at my computer for most of the day, but coding 24/7 would make me want to smack my head against a wall. I like to play video games, watch YouTube videos, read up on current world affairs, learn about new technology being developed, etcetera. My life isn't just sitting at a computer typing lines of code until I can no longer function, that is so boring. 
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+So, that's why this has come to life. I want to share things I am doing, both computer science related and not. I'm not expecting to be uploading a new post everyday, but I will try to be writing a few posts a week about what I am finding interesting at the moment.
 
-### Where can I get some?
-
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-> This content was copied from http://www.lipsum.com/ as an example of post article.
+Thanks for taking the time to read this small introduction, and I hope to see you soon!
