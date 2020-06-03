@@ -1,10 +1,10 @@
 # Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://heiswayi.github.io/thinkspace # site url
-baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+title_left    : "Rhys"
+title_right   : "Wootton" # default: ""
+description   : "Personal blog linked to my portfolio."
+keywords      : "rhys-wootton, rhys, blog, personal, portfolio, technology"
+url           : https://rhys-wootton.github.io/blog # site url
+baseurl       : "" #
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
