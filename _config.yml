@@ -1,6 +1,6 @@
 # Site settings
 title_left    : "Rhys"
-title_right   : "Wootton" # default: ""
+title_right   : " Wootton" # default: ""
 description   : "Personal blog linked to my portfolio."
 keywords      : "rhys-wootton, rhys, blog, personal, portfolio, technology"
 url           : https://rhys-wootton.github.io/blog # site url
