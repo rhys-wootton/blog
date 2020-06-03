@@ -11,7 +11,7 @@ google_analytics  : UA-XXXXX-XX
 twitter_username  : ""
 comments_enabled  : true # if enabled (set to true), please provide your disqus_username
 disqus_username   : "rhyswootton2212"
-disqus_shortname  : ""
+disqus_shortname  : "rhyswoottonblog"
 postshare_enabled : true
 
 # Build settings
