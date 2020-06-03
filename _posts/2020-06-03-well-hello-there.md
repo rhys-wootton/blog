@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Well hello there!"
+comments: true
 ---
 
 Hello there people. This is my first ever blog post. Kind of crazy to think it has taken me this long to start one since I have been wanting to write one for years, but here we are now! I am planning to make this a hub for all things that interest me, and things that I want to take time writing about. Writing is something that I have always enjoyed doing but I have never found a way that I could link it to my love of code, but now I think I have found a way. 
