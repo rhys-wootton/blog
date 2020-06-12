@@ -12,7 +12,7 @@ I booted it up and noticed right off the bat it was a bit sluggish. Mind you it 
 
 If you don’t know, when Windows 8 was released back in like 2012, they did a promotion where you could buy a copy of Windows 8 Pro for something like £25. I begged my parents for weeks prior to its release asking for a copy, since it was getting released around my birthday. Yes I asked for a Windows product key as a birthday present, I can see you judging through your screen right now. I know I was a very “interesting” child, but aren’t we all a bit quirky? Anyhow, my dad bought it, and then he received an email with the key in a Word document. Since that time, every laptop and desktop I have had, I keep a copy of this file in my documents (it was password protected so don’t come for me) just in case I need it for something. Well today was this day, and that is where \*\*\*\* hit the fan.
 
-### Where’s that \*\*\*\*\*\*\* product key document?”
+### "Where’s that \*\*\*\*\*\*\* product key document?”
 
 Good question Rhys. Little did I know that when I reset my desktop back in February, I forgot to back this file up. You might now be asking “But Rhys, you said you keep it on all your laptops and desktops, so you must have it somewhere else right?” No. I don’t. You want to know why?
 
