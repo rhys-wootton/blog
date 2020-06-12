@@ -28,4 +28,4 @@ So, what is realistically my only option. I am not forking out £119 for the Hom
 
 If there is one thing you can get out of this, have off-site backups on a different drive or cloud hosted. You will not then cause the same mistakes I have. This makes me wonder how I am on a Computer Science course, but hey, worse things have happened to more important people. It will teach me to be more careful in the future.
 
-![Me as a clown]([ass](https://raw.githubusercontent.com/rhys-wootton/blog/master/assets/images/2020-06-12/clown.png) "A selfie of myself after resetting my desktop without backing up my product key document")
+![Me as a clown](https://raw.githubusercontent.com/rhys-wootton/blog/master/assets/images/2020-06-12/clown.png "A selfie of myself after resetting my desktop without backing up my product key document")
